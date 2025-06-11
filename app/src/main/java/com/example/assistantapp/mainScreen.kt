@@ -196,7 +196,7 @@ fun MainPage(navController: NavHostController) {
                         withStyle(style = SpanStyle(fontWeight = FontWeight.Bold)) {
                             append("teach an impaired person ")
                         }
-                        append("how to use this app.")
+                        append("how to use this .")
                     }
 
                     LazyColumn(
